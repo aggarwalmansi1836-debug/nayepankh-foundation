@@ -1,2 +1,2 @@
 # nayepankh-foundation
-this repository has tasks that made fo internship of web development
+this repository has tasks that made for internship of web development
